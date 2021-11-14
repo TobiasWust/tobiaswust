@@ -4,8 +4,6 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=f68714)
 
 ![Tobias Wust's github stats](https://github-readme-stats.vercel.app/api?username=tobiaswust&show_icons=true&title_color=f68714&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiaswust&layout=compact&title_color=f68714&text_color=daf7dc&bg_color=151515)
 
 
