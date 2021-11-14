@@ -18,6 +18,4 @@
 <a href="https://github.com/Zhenye-Na/crnn-pytorch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=f68714&text_color=daf7dc&icon_color=f68714&bg_color=0e1116" alt="crnn-pytorch" />
 </a> -->
-[![tobiaswust's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tobiaswust&line_height=27&title_color=f68714&text_color=daf7dc&icon_color=f68714&bg_color=0e1116)]()
-
 
