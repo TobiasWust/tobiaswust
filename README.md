@@ -3,8 +3,6 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f68714)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=f68714)
 
-
-### 🐱My Github stats:
 ![Tobias Wust's github stats](https://github-readme-stats.vercel.app/api?username=tobiaswust&show_icons=true&title_color=f68714&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 
 
@@ -20,9 +18,6 @@
 <a href="https://github.com/Zhenye-Na/crnn-pytorch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=f68714&text_color=daf7dc&icon_color=f68714&bg_color=0e1116" alt="crnn-pytorch" />
 </a> -->
-
-### 🧑‍💻  This week, I spent my time on:
-
 [![tobiaswust's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tobiaswust&line_height=27&title_color=f68714&text_color=daf7dc&icon_color=f68714&bg_color=0e1116)]()
 
 
