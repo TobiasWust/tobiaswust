@@ -30,9 +30,6 @@ I also enjoy making games with Unity.
   <br>
 <a target="_blank" href="https://instagram.de/tobiaswust">
   <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  <br>
-  <img width="400"
-    src="https://scontent-vie1-1.cdninstagram.com/v/t51.2885-15/121141075_2959078257655125_6821080176223321768_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_cat=109&_nc_ohc=B73bcu4R8UsAX9HxjDi&edm=AABBvjUBAAAA&ccb=7-4&ig_cache_key=MjQxODI3NTU2NjUyOTY5NDI3NQ%3D%3D.2-ccb7-4&oh=00_AT9GSsWXdGfYKTRzl5K6gjVLUmFqSPIE9DTTx4DmAP2oFQ&oe=624E41B3&_nc_sid=83d603">
 </a>
 </p>
     
