@@ -28,7 +28,7 @@ I also enjoy making games with Unity.
 <p align="center">
   I am also a Paragliding Instructor
   <br>
-<a target="_blank" href="https://instagram.de/tobiaswust">
+<a target="_blank" href="https://instagram.com/tobiaswust">
   <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
