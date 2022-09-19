@@ -7,6 +7,7 @@ Hi! I am Tobias Wust. A freelancing Software Developer from Germany.
 I make Frontends with React. <br>
 I also enjoy making games with Unity.
 
+Check my full resume at <a href="https://wust.dev">wust.dev</a>
 <br> <br>
 
 
