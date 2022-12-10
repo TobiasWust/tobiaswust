@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=f68714"> <img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=f68714"> <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f68714"> <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=f68714">
+  <img src="https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=f68714"> <img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=f68714"> <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=f68714"> <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=f68714">
   </p>
 
 Hi! I am Tobias Wust. A freelancing Software Developer from Germany.
