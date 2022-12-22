@@ -24,7 +24,8 @@ Check my full resume at <a href="https://wust.dev">wust.dev</a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiaswust&show_icons=true&line_height=27&title_color=f68714&text_color=daf7dc&icon_color=f68714&bg_color=0e1116" alt="" />
 </a> -->
 
-<br>
+![Recent Coding Activity](https://wakatime.com/share/@tobiaswust/95d821ce-d972-46d9-a491-af6da8e6f00a.svg)
+![Recent Coding Languages](https://wakatime.com/share/@tobiaswust/ae15961a-7198-42be-9838-b3cd495f2a0e.svg)
 
 <p align="center">
   I am also a Paragliding Instructor
