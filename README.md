@@ -2,14 +2,25 @@
   <img src="https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=f68714"> <img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=f68714"> <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=f68714"> <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=f68714">
   </p>
 
+# Tobias Wust
+
 Hi! I am Tobias Wust. A freelancing Software Developer from Germany.
 
-I make Frontends with React. <br>
+I make Webapps with React. <br>
 I also enjoy making games with Unity.
 
 Check my full resume at <a href="https://wust.dev">wust.dev</a>
-<br> <br>
 
+# Stack
+My favorite Stack at the moment
+- TypeScript
+- React
+- NextJs
+- Supabase
+- Zustand
+- React Query
+
+# Stats
 
 ![Tobias Wust's github stats](https://github-readme-stats.vercel.app/api?username=tobiaswust&show_icons=true&title_color=f68714&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiaswust&layout=compact&title_color=f68714&text_color=daf7dc&bg_color=151515)
